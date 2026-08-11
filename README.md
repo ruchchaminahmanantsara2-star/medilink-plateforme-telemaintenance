@@ -1,4 +1,4 @@
-# Plateforme-telemaintenance biomedicale-Madagascar.
+# Plateforme-telemaintenance-biomedicale-Madagascar.
 
 Prototype fonctionnel réalisé pour le mini-projet de soutenance DTS (technologies biomédicales).
 
