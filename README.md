@@ -1,4 +1,4 @@
-# MediLink — Plateforme collaborative de télémaintenance biomédicale
+# Plateforme-telemaintenance biomedicale-Madagascar.
 
 Prototype fonctionnel réalisé pour le mini-projet de soutenance DTS (technologies biomédicales).
 
